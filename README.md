@@ -38,7 +38,7 @@ Graduanda em **Ciência de Dados (Fatec Jundiaí)** com atuação prática em in
 | Projeto | Foco | Stack |
 | :--- | :--- | :--- |
 | **[Saneamento e Segmentação para CRM](#)** | Pipeline fictício de higienização cadastral (CNPJ, contatos, deduplicação) e regras de recorte para campanhas | `SQL` `Python` `Pandas` |
-| **[Detecção de Anomalias em Bases Cadastrais](#)** | Estudo comparativo de algoritmos (como Isolation Forest) para identificar registros atípicos | `Python` `Scikit-Learn` |
+| **[Detecção de Anomalias em Bases Cadastrais](https://github.com/michellesilvaah/deteccao-anomalias-isolation-forest)** | Estudo comparativo de algoritmos (como Isolation Forest) para identificar registros atípicos | `Python` `Scikit-Learn` |
 | **[Classificação de Sentimentos em Português](#)** | Fine-tuning de modelo Transformer para análise textual e avaliação de métricas de classificação | `PyTorch` `NLP` |
 
 
